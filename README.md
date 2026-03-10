@@ -1,2 +1,3 @@
 # hello-dsmdsm
-firstrepositoryonGitHub
+111first repositoryonGitHub
+code clean,life bright.
